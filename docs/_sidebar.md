@@ -2,7 +2,7 @@
 
 * [Overview](main.md?id=Overview)
 * [Getting Started](getstarted.md?id=Getting-Started)
-* [MIT License](License.md?id=MIT-License)
+* [MIT License](license.md?id=MIT-License)
 
 ---
 
