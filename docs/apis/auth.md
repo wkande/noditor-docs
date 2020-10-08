@@ -1,4 +1,4 @@
-# Authorization
+## Authorization
 
 The API Endpoints are protected by two different mechanisim. Keys and Address Checking are used when sending data from your Application. JWT Tokens are used by the Noditor App to access data.
 
@@ -6,9 +6,9 @@ The API Endpoints are protected by two different mechanisim. Keys and Address Ch
 * **JWT** - Data access by the Noditor App (or any client you might create)
 
 
-## Keys and Address Checking
+### Keys/Addresses
 
-Data submission enpoints are protected by a ***Key*** and optionally by ***Address*** checking.
+Data submission endpoints are protected by a ***Key*** and optionally by ***Address*** checking.
 
 The following API endpoints require a valid key to succeed.
 
@@ -44,9 +44,9 @@ If you host the Noditor Server in the cloud ***Address Checking*** should be imp
 }
 ```
 
-Learn more about the [noditor.json](../server/config.md?id=noditor.json) file in the Noditor Server section of this guide.
+Learn more about the [noditor.json](server/config.md?id=noditorjson) file in the Noditor Server section of this guide.
 
-## JWT
+### JWT
 
 JSON Web Tokens are used to secure API data access by the Noditor App (or any client you might like to create).
 

@@ -25,6 +25,8 @@
     window.$docsify = {
       el: '#app',
       loadSidebar: true,
+      maxlevel:3,
+      subMaxLevel:3,
       alias: {
         './*/_sidebar.md': '/_sidebar.md'
       },
@@ -37,8 +39,7 @@
       //name: 'Noditor<sub><small>2.1</small></sub><div style="font-size:small;">Node.js Monitoring</div>',
       //nameLink: '/', // For each route
       relativePath: false,
-      auto2top: false,
-      maxlevel:3,
+      auto2top: true,
       onlyCover: true,
       externalLinkTarget: '_blank', // default: '_blank' or _self
       fallbackLanguages: ['en'],

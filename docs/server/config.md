@@ -16,7 +16,7 @@ The ***noditor.json*** file is not included in the cloned noditor-server repo. Y
 }
 ```
 
-## Options
+#### Options
 
 * **administrators**:array (required) - An array of email addresses that are granted full admin privileges when using the Noditor App.
 
@@ -38,3 +38,10 @@ The ***noditor.json*** file is not included in the cloned noditor-server repo. Y
   // *.mydomain.com
 
   ```
+
+[filename](keys.md ':include')
+
+[filename](messages.md ':include')
+
+
+[filename](db.md ':include')

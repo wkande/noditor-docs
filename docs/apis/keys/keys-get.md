@@ -1,4 +1,4 @@
-# Get Keys
+### Get all Keys
 
 Gets a list of [Keys](../server/keys.md?id=Keys). All keys are visible to all users. Only Administrators can create and delete Keys.
 

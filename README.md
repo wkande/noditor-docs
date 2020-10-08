@@ -1,6 +1,6 @@
 # Noditor Docs
 
-<div style="font-size:medium;color:purple;margin-bottom:20px;">This repo is under development. Please do not implement Noditor v2 at this time.</div>
+<div style="font-size:medium;color:purple;margin-bottom:20px;">This repo is under consideration for development. Please do not implement Noditor v2 at this time.</div>
 
 
 Noditor is a self-host open source monitoring system for frontend and backend applications. There are two components to Noditor as a monitoring system.

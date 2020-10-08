@@ -1,10 +1,10 @@
-# Delete Key
+### Delete a Key
 
 Deletes a [Key](../server/keys.md?id=Keys). Only Administrators can delete Keys.
 
 ---
 
-<span class="method delete">DELETE</span> /key/{key_id}
+<span class="method delete">DELETE</span> /key/:key_id
 
 ---
 

@@ -1,4 +1,4 @@
-# Send Code
+### Create a Code
 
 Creates and sends an authentication code to a user's email address. Follow up to this endpoint by calling POST /token to get the user a JWT Token.
 

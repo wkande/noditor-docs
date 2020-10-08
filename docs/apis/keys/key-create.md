@@ -1,10 +1,10 @@
-# Create Key
+### Create a Key
 
 Creates a [Key](../server/keys.md?id=Keys). Each Key must have a unique name. Once created a Key cannot be changed. If you made an error naming the Key, delete it and create another. Only Administrators can create Keys.
 
 ---
 
-<span class="method delete">POST</span> /key
+<span class="method post">POST</span> /key
 
 ---
 

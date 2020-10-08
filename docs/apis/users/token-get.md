@@ -1,4 +1,4 @@
-# Get Token
+### Get a Token
 
 Gets a JWT token using a user's email address and a code. The code was sent to the user's email address by GET /code.
 

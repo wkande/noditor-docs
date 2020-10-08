@@ -1,14 +1,17 @@
-<i class="fa fa-heartbeat fa-2x" style="float:left;margin-left:37px;margin-top:-137px;color:mediumvioletred;" aria-hidden="true"></i></i>
+<i class="fa fa-heartbeat fa-2x" style="float:left;margin-left:37px;margin-top:-137px;color:mediumvioletred;" aria-hidden="true"></i>
 
-* [Overview](main.md?id=Overview)
-* [Getting Started](getstarted.md?id=Getting-Started)
-* [MIT License](license.md?id=MIT-License)
 
----
+<!-- For some reason you need an empty double line between the menus to get the drop down arrow. -->
 
-<!-- Must be ../apis/file.md?id=Title or the menu line will not hightlight -->
-*[Noditor Server <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](server/config.md?id=Configuration)*
+- [Overview](main)
 
-*[Noditor App <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](app/main.md?id=Overview)*
 
-*[API Reference <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](apis/authorization.md?id=Authorization)*
+- [Noditor Server](server/config)
+
+
+- [Noditor App](app/main)
+
+
+- [API Reference](apis/main)
+
+

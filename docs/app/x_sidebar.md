@@ -7,4 +7,4 @@
 
 ---
 
-* [Authenticate](app/auth.md?id=Authenticate)
+* [Noditor App](app/main.md?id=Noditor-App)
