@@ -7,4 +7,4 @@
 
 ---
 
-* [Authenticate](../app/auth.md?id=Authenticate)
+* [Authenticate](app/auth.md?id=Authenticate)

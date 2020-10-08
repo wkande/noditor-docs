@@ -7,16 +7,16 @@
 
 ---
 
-* [Authorization](../apis/authorization.md?id=Authorization)
+* [Authorization](apis/authorization.md?id=Authorization)
 
 <!-- id=x used to be sure menu line gets highlighted on click and the left arrow is not presented by dicsify -->
 
 * ***Keys***
-  - [Get Keys](../apis/keys/keys-get.md?id=x)
-  - [Create Key](../apis/keys/key-create.md?id=x)
-  - [Delete Key](../apis/keys/key-delete.md?id=x)
+  - [Get Keys](apis/keys/keys-get.md?id=x)
+  - [Create Key](apis/keys/key-create.md?id=x)
+  - [Delete Key](apis/keys/key-delete.md?id=x)
 
 * ***Users***
-  - [Send Code](../apis/users/code-post.md?id=x)
-  - [Get Token](../apis/users/token-get.md?id=x)
+  - [Send Code](apis/users/code-post.md?id=x)
+  - [Get Token](apis/users/token-get.md?id=x)
 

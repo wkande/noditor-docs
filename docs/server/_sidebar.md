@@ -7,8 +7,8 @@
 
 ---
 
-* [Configuration](../server/config.md?id=Configuration)
-* [SQLite3 Database](../server/db.md?id=SQLite3-Database)
-* [Keys](../server/keys.md?id=Keys)
-* [Messages](../server/messages.md?id=Messages)
-* [Graphs](../server/graphs.md?id=Graphs)
+* [Configuration](server/config.md?id=Configuration)
+* [SQLite3 Database](server/db.md?id=SQLite3-Database)
+* [Keys](server/keys.md?id=Keys)
+* [Messages](server/messages.md?id=Messages)
+* [Graphs](server/graphs.md?id=Graphs)
