@@ -4,8 +4,8 @@
 * Run the Noditor App
 * Send a Message
 
-
 ## Noditor Server
+
 The installation process to setup the Noditor Server is straight forward. Simply clone the Noditor Server from its GitHub repo, install dependencies, create the noditor.json config file and start the server. When the server starts for the first time it will create the SQLite3 database it uses to store data send from your applications.
 
 1. **Clone the Repo**

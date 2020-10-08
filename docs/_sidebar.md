@@ -7,8 +7,8 @@
 ---
 
 <!-- Must be ../apis/file.md?id=Title or the menu line will not hightlight -->
-*[Noditor Server <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](../server/config.md?id=Configuration)*
+*[Noditor Server <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](server/config.md?id=Configuration)*
 
-*[Noditor App <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](../app/main.md?id=Overview)*
+*[Noditor App <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](app/main.md?id=Overview)*
 
-*[API Reference <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](../apis/authorization.md?id=Authorization)*
+*[API Reference <i class="nav-arrow-right fa fa-angle-right fa-2x"></i>](apis/authorization.md?id=Authorization)*
