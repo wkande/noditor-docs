@@ -1,9 +1,3 @@
-<!-- _coverpage.md -->
-
-<!-- - [English](/)
-- [Español](/_es/)
--->
-
 <i class="fa fa-heartbeat fa-5x" style="color:mediumvioletred;" aria-hidden="true"></i>
 
 # Noditor <small>2.1</small>

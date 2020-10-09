@@ -20,7 +20,7 @@ The noditor.json file is not included in the cloned noditor-server repo. You mus
 
 Changing the ttl value **does not** require the server to be restarted.
 
-Learn more about the [noditor.json](../server/config.md?id=Configuration) file in the Noditor Server section of this guide.
+Learn more about the [noditor.json](../server/main.md?id=Configuration) file in the Noditor Server section of this guide.
 
 ## Database Tables
 
@@ -69,7 +69,7 @@ classDiagram
     class Graphs
     Graphs: graph_id integer
     Graphs: key_id integer
-    Graphs: graph object
+    Graphs: value number
     Graphs: ts timestamp
 
     class Internals

@@ -1,5 +1,3 @@
-# Noditor App
-
 The ***Noditor App*** is a progressive web app (PWA). It will connect to your self-hosted instance of the Noditor Server to render messages and graph data collected from all your applications. 
 
 As a PWA you can install it directly to the home screen of a mobile device. Doing so allows the Noditor App access to more screen space.
@@ -22,17 +20,19 @@ The Noditor App will remember you each time you return. Simply logout if wish no
 
 The Noditor App uses a simple tab system to access different sections of logical data.
 
+![Tab-Bar](../app/images/tab-bar.png)
+
 - Messages (Alerts and Errors)
 
 - Graphs
 
 - Users (View users and manage their access)
 
-- System (View system notifications)
+- Notify (View system notifications)
 
 ## User Management
 
-Only Administrators can add, edit or delete users. Administrators are defined in the [noditor.json](server/config.md?id=Configuration) file. All other users are added using the Noditor App and are only allowed to view the list of users.
+Only Administrators can add, edit or delete users. Administrators are defined in the [noditor.json](server/main.md?id=Configuration) file. All other users are added using the Noditor App and are only allowed to view the list of users.
 
 #### Add User
 

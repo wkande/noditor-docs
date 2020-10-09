@@ -35,7 +35,7 @@ console.log(res.data);
 
 #### Address Checking (optional)
 
-If you host the Noditor Server in the cloud ***Address Checking*** should be implemented. When your Application submits data with one of the three POST endpoints, the Address of the requesting server is checked against the allow_addresses array declared in the ***noditor.json*** file. Use ip or host names. Wildcards are permitted only at the start or end of the address.
+If you host the Noditor Server in the cloud ***Address Checking*** should be implemented. When your Application submits data with one of the three POST endpoints, the Address of the requesting server is checked against the allow_addresses array declared in the ***noditor.json*** file. Use ip or hostnames. Wildcards are permitted only at the start or end of the address.
 
 ```json
 {
@@ -44,7 +44,7 @@ If you host the Noditor Server in the cloud ***Address Checking*** should be imp
 }
 ```
 
-Learn more about the [noditor.json](server/config.md?id=noditorjson) file in the Noditor Server section of this guide.
+Learn more about the [noditor.json](server/main.md?id=Configuration) file in the Noditor Server section of this guide.
 
 ### JWT
 
@@ -59,3 +59,5 @@ The ***Token*** is granted using the email-code-token challenge mechanism. This 
 * Future requests by the Noditor App will add the JWT token to the request header for each API endpoint call.
 
 When an endpoint receives a request from the Noditor App the JWT token is decrypted and the embedded email is checked against the list of known email addresses. Had the email address been removed from the known list of email addresses after the token was issued the request will fail.
+
+Logout a user by deleting the JWT token at the client as does the Noditor App.

@@ -1,5 +1,3 @@
-# Overview
-
 ***Noditor*** is a light-weight self hosted monitoring system for your frontend or backend Applications. It consists of two parts: the ***Noditor Server*** and the  ***Noditor App***. Noditor is an open source project hosted on GitHub in three repos: noditor-docs,  noditor-server and noditor-app.
 
 
@@ -39,4 +37,4 @@ The ***Noditor App*** is a Progressive Web App (PWA). It will connect to your se
 
 The Noditor App is available directly from the [Noditor App Repo](https://github.com/wkande/noditor-app) on GitHub or in this guide under the [Noditor App](../app/main.md?id=Overview) section.
 
-
+[filename](getstarted.md ':include')

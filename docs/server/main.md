@@ -1,11 +1,8 @@
-# Configuration
+The ***Noditor Server*** accepts messages and graph data frm your Applications. The data is redenered wihtthe ***Noditor App** or your own client using the APIs.
 
-On startup the Noditor Server reads from the ***noditor.json*** config file.
+## Configuration
 
-
-## noditor.json
-
-The ***noditor.json*** file is not included in the cloned noditor-server repo. You must create it in the project root and enter a JSON object using the following structure. The **administrators** and **allowed_addresses** are required.
+On startup the Noditor Server reads from the ***noditor.json*** config file. The noditor.json file is not included in the cloned noditor-server repo. You must create it in the project root and enter a JSON object using the following structure. The **administrators** and **allowed_addresses** are required.
 
 
 ```json
@@ -41,7 +38,10 @@ The ***noditor.json*** file is not included in the cloned noditor-server repo. Y
 
 [filename](keys.md ':include')
 
+
 [filename](messages.md ':include')
+
+[filename](graphs.md ':include')
 
 
 [filename](db.md ':include')

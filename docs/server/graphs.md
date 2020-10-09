@@ -1,6 +1,6 @@
 # Graphs
 
-Your Applciatinos can send graph data to the Noditor Server. The Noditor App can render the graph data in several different chart styles.
+Your Applications can send graph data to the Noditor Server. The Noditor App can render the graph data in several different chart styles.
 
 * **key** - string: a known Key on the Noditor Server
 * **name** - name: unique name for the chart

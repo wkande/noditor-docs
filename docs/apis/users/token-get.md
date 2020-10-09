@@ -8,7 +8,7 @@ Gets a JWT token using a user's email address and a code. The code was sent to t
 
 ---
 
-***Parameters***
+#### Parameters
 
 | Name        | Type    | In     | Description |
 | :---        | :---    | :---   | :--- |
@@ -18,17 +18,18 @@ Gets a JWT token using a user's email address and a code. The code was sent to t
 
 ---
 
-***Usage***
+#### Usage
+
 <!-- tabs:start -->
 
-#### **CURL**
+CURL
 
 ```bash
 curl get https://try.ourdomain.com/token?email=warren@wyosoft.com&code=abc123 \
 -h {"accept":"application/json"}
 ```
 
-#### **Javascript**
+Javascript
 
 ```javascript
 const options = {
@@ -37,14 +38,18 @@ const options = {
 
 const resp = await axios.get("/token?email=warren@wyosoft.com&code=abc123", options)
 console.log(resp.data);
-  ```
+```
+
 <!-- tabs:end -->
 
 ---
 
-***Response***
+#### Response
+
 <!-- tabs:start -->
-#### **Data**
+
+Data
+
 ```json
 {
   "email":"warren@wyosoft.com",
@@ -53,7 +58,7 @@ console.log(resp.data);
 
 ```
 
-#### **Errors**
+Errors
 
 ```text
 - 200 OK
@@ -62,3 +67,4 @@ console.log(resp.data);
 ```
 
 <!-- tabs:end -->
+
