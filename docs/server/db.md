@@ -1,6 +1,6 @@
 # SQLite3 Database
 
-The Noditor Server creates a local ***SQLite3 Database*** to record data from your Applciations and other data created by the Noditor App.
+The Noditor Server creates a local ***SQLite3 Database*** to record data from your Appliciations and other data created by the Noditor App.
 
 This database is automatically managed by the Noditor Server. Only the TTL (Time-To-Live) parameter can be altered.
 

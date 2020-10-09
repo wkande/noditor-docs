@@ -33,15 +33,12 @@ On startup the Noditor Server reads from the ***noditor.json*** config file. The
   // Other examples
   // 192.168.0.*
   // *.mydomain.com
-
   ```
 
 [filename](keys.md ':include')
 
-
 [filename](messages.md ':include')
 
 [filename](graphs.md ':include')
-
 
 [filename](db.md ':include')
